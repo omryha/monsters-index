@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/monsters-index/static/css/main.edf0bb0d.chunk.css",
+    "main.js": "/monsters-index/static/js/main.fa2ff71a.chunk.js",
+    "main.js.map": "/monsters-index/static/js/main.fa2ff71a.chunk.js.map",
+    "runtime-main.js": "/monsters-index/static/js/runtime-main.3ff723c9.js",
+    "runtime-main.js.map": "/monsters-index/static/js/runtime-main.3ff723c9.js.map",
+    "static/js/2.975c5e1d.chunk.js": "/monsters-index/static/js/2.975c5e1d.chunk.js",
+    "static/js/2.975c5e1d.chunk.js.map": "/monsters-index/static/js/2.975c5e1d.chunk.js.map",
+    "index.html": "/monsters-index/index.html",
+    "precache-manifest.b7118f121921fa8bee7a5885ccd822d3.js": "/monsters-index/precache-manifest.b7118f121921fa8bee7a5885ccd822d3.js",
+    "service-worker.js": "/monsters-index/service-worker.js",
+    "static/css/main.edf0bb0d.chunk.css.map": "/monsters-index/static/css/main.edf0bb0d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ff723c9.js",
+    "static/js/2.975c5e1d.chunk.js",
+    "static/css/main.edf0bb0d.chunk.css",
+    "static/js/main.fa2ff71a.chunk.js"
+  ]
+}
