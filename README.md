@@ -1,2 +1,3 @@
 # monsters-index
-Simple React monsters index
+Simple React monsters index.
+Build code.
